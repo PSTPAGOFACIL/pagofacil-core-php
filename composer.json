@@ -1,16 +1,10 @@
 {
-    "name": "kdu/pagofacilcore",
+    "name": "pstpagofacil/pagofacil-core-php",
     "description": "librerias integracion pago facil API PHP SDk",
     "keywords": [
         "core pagofacil", "pagofacil php", "pagofacil-sdk"
     ],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "andres perez",
-            "email": "aperez@kdu.cl"
-        }
-    ],
     "type": "library",
     "version": "1.0.0",
     "require": {
